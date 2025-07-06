@@ -70,7 +70,7 @@ InternHub/
 
 ### Prerequisites
 - Node.js (v18 or higher)
-- MongoDB
+- MongoDB (local or Atlas)
 - npm or yarn
 
 ### Installation
@@ -95,15 +95,29 @@ npm install
 ```bash
 # Create .env file in backend directory
 cd backend
-touch .env
+cp .env.example .env
 ```
 
-Add the following to your `.env` file:
+Edit your `.env` file with your MongoDB connection:
 ```
 MONGO_URI=mongodb://localhost:27017/internhub
 JWT_SECRET=your-secret-key-here
 PORT=5000
 ```
+
+### MongoDB Setup
+
+**Option A: Local MongoDB**
+1. Install [MongoDB Community Server](https://www.mongodb.com/try/download/community)
+2. Start MongoDB service
+3. Use connection string: `mongodb://localhost:27017/internhub`
+
+**Option B: MongoDB Atlas (Recommended for Production)**
+1. Create free account at [mongodb.com/atlas](https://mongodb.com/atlas)
+2. Create a new cluster (free tier)
+3. Click "Connect" → "Connect your application"
+4. Copy the connection string and replace `<password>` with your database password
+5. Update your `.env` file with the Atlas connection string
 
 4. **Start the application**
 ```bash
@@ -158,10 +172,20 @@ npm run dev
 
 ## 🐳 Docker Deployment
 
+### Option 1: Simple Docker Build
 ```bash
 # Build and run with Docker
 docker build -t internhub .
 docker run -p 3000:3000 internhub
+```
+
+### Option 2: Docker Compose (with MongoDB)
+```bash
+# Run with Docker Compose (includes MongoDB)
+docker-compose up -d
+
+# Stop services
+docker-compose down
 ```
 
 ## 📈 Performance Metrics
