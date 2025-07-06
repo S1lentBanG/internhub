@@ -13,29 +13,17 @@ A full-stack internship management platform connecting NITW students with compan
 
 ## 📸 Screenshots
 
-### Landing Page
-![Landing Page](screenshots/LandingPage.jpeg)
+| [Landing Page](screenshots/LandingPage.jpeg) | [Internship Grid](screenshots/InternshipGrid.jpeg) | [Register Page](screenshots/RegisterPage.jpeg) |
+|:---:|:---:|:---:|
+| <img src="screenshots/LandingPage.jpeg" width="150"/> | <img src="screenshots/InternshipGrid.jpeg" width="150"/> | <img src="screenshots/RegisterPage.jpeg" width="150"/> |
 
-### Internship Grid
-![Internship Grid](screenshots/InternshipGrid.jpeg)
+| [Student Dashboard](screenshots/StudentDashboard.jpeg) | [View Internships Page](screenshots/ViewInternshipsPage.jpeg) | [Post Internship Page](screenshots/PostIntershipPage.jpeg) |
+|:---:|:---:|:---:|
+| <img src="screenshots/StudentDashboard.jpeg" width="150"/> | <img src="screenshots/ViewInternshipsPage.jpeg" width="150"/> | <img src="screenshots/PostIntershipPage.jpeg" width="150"/> |
 
-### Register Page
-![Register Page](screenshots/RegisterPage.jpeg)
-
-### Student Dashboard
-![Student Dashboard](screenshots/StudentDashboard.jpeg)
-
-### View Internships Page
-![View Internships Page](screenshots/ViewInternshipsPage.jpeg)
-
-### Post Internship Page
-![Post Internship Page](screenshots/PostIntershipPage.jpeg)
-
-### Analytics Dashboard
-![Analytics Dashboard](screenshots/AnalyticsDashboard.jpeg)
-
-### Mobile View
-![Mobile View](screenshots/MobileView.jpeg)
+| [Analytics Dashboard](screenshots/AnalyticsDashboard.jpeg) | [Mobile View](screenshots/MobileView.jpeg) |
+|:---:|:---:|
+| <img src="screenshots/AnalyticsDashboard.jpeg" width="150"/> | <img src="screenshots/MobileView.jpeg" width="150"/> |
 
 ## 🛠️ Tech Stack
 
