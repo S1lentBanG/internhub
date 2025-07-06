@@ -14,28 +14,28 @@ A full-stack internship management platform connecting NITW students with compan
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/LandingPage.png)
+![Landing Page](screenshots/LandingPage.jpeg)
 
 ### Internship Grid
-![Internship Grid](screenshots/InternshipGrid.png)
+![Internship Grid](screenshots/InternshipGrid.jpeg)
 
 ### Register Page
-![Register Page](screenshots/RegisterPage.png)
+![Register Page](screenshots/RegisterPage.jpeg)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/StudentDashboard.png)
+![Student Dashboard](screenshots/StudentDashboard.jpeg)
 
 ### View Internships Page
-![View Internships Page](screenshots/ViewInternshipsPage.png)
+![View Internships Page](screenshots/ViewInternshipsPage.jpeg)
 
 ### Post Internship Page
-![Post Internship Page](screenshots/PostIntershipPage.png)
+![Post Internship Page](screenshots/PostIntershipPage.jpeg)
 
 ### Analytics Dashboard
-![Analytics Dashboard](screenshots/AnalyticsDashboard.png)
+![Analytics Dashboard](screenshots/AnalyticsDashboard.jpeg)
 
 ### Mobile View
-![Mobile View](screenshots/MobileView.png)
+![Mobile View](screenshots/MobileView.jpeg)
 
 ## 🛠️ Tech Stack
 
