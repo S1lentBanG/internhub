@@ -11,6 +11,32 @@ A full-stack internship management platform connecting NITW students with compan
 - **Real-time Tracking**: Live monitoring of application status and platform growth
 - **Responsive Design**: Modern UI with dark mode support and mobile optimization
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](screenshots/LandingPage.png)
+
+### Internship Grid
+![Internship Grid](screenshots/InternshipGrid.png)
+
+### Register Page
+![Register Page](screenshots/RegisterPage.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/StudentDashboard.png)
+
+### View Internships Page
+![View Internships Page](screenshots/ViewInternshipsPage.png)
+
+### Post Internship Page
+![Post Internship Page](screenshots/PostIntershipPage.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](screenshots/AnalyticsDashboard.png)
+
+### Mobile View
+![Mobile View](screenshots/MobileView.png)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -151,73 +177,4 @@ npm run dev
 ### Authentication
 - `POST /api/auth/register` - User registration
 - `POST /api/auth/login` - User login
-- `GET /api/auth/profile` - Get user profile
-
-### Internships
-- `GET /api/internships` - Get all internships (with filters)
-- `POST /api/internships` - Create new internship
-- `GET /api/internships/:id` - Get specific internship
-- `PUT /api/internships/:id` - Update internship
-- `DELETE /api/internships/:id` - Delete internship
-
-### Applications
-- `POST /api/applications` - Apply to internship
-- `GET /api/applications/user/:userId` - Get user applications
-- `PATCH /api/applications/:id/status` - Update application status
-
-### Analytics
-- `GET /api/analytics/summary` - Platform summary statistics
-- `GET /api/analytics/domain-stats` - Domain-wise statistics
-- `GET /api/analytics/platform-growth` - Growth analytics
-
-## 🐳 Docker Deployment
-
-### Option 1: Simple Docker Build
-```bash
-# Build and run with Docker
-docker build -t internhub .
-docker run -p 3000:3000 internhub
-```
-
-### Option 2: Docker Compose (with MongoDB)
-```bash
-# Run with Docker Compose (includes MongoDB)
-docker-compose up -d
-
-# Stop services
-docker-compose down
-```
-
-## 📈 Performance Metrics
-
-- **Response Time**: < 200ms average API response
-- **Uptime**: 99.9% reliability
-- **Scalability**: Handles 1000+ concurrent users
-- **Data Accuracy**: 95%+ filtering accuracy
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Nikhil M** - [GitHub Profile](https://github.com/S1lentBanG)
-
-## 🙏 Acknowledgments
-
-- NITW CCPD for domain expertise
-- React and Node.js communities
-- MongoDB Atlas for database hosting
-- Vercel for frontend deployment
-
----
-
-⭐ **Star this repository if you found it helpful!**
+- `GET /api/auth/profile`
