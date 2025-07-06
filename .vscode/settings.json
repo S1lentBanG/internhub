@@ -1,0 +1,31 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascriptreact",
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact",
+    "html": "html",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on",
+    "other": "on",
+    "comments": "off"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "editor.inlineSuggest.enabled": true,
+  "css.validate": false,
+  "postcss.validate": false,
+  "tailwindCSS.experimental.classRegex": [
+    ["tw`([^`]*)", 1],
+    ["tw\\(([^)]*)\\)", 1],
+    ["class(Name)?\\s*=\\s*\"([^\"]*)", 2],
+    ["class(Name)?\\s*=\\s*'([^']*)", 2],
+    ["class(Name)?\\s*=\\s*\\{`([^`]*)", 2]
+  ],
+  "tailwindCSS.hoverPreview": true,
+  "tailwindCSS.colorDecorators": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
