@@ -31,13 +31,13 @@ To see InternHub's dynamic features and animations in action, check out these vi
 
 | Feature                 | Link                                                                                                                                                                                                                                               |
 | :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Analytics Dashboard** | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (23.1 MB)                                                                   |
-| **Landing Page (GIF)**  | [Watch GIF](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (37.6 MB)                                                                     |
-| **Login Page**          | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (25.3 MB)                                                                   |
-| **Manage Internships**  | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (15.5 MB)                                                                 |
-| **Managing Applications** | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (15 MB)                                                                     |
-| **Post Internship**     | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (15.2 MB)                                                                 |
-| **Register Page**       | [Watch Video](https://drive.google.com/file/d/1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX/view?usp=drive_link&id=1kvqTHpC_f90nTs2t9MYKZgAZ2_53AqRX&resourcekey=0-yG9X_8Z8e8T4z5b7d1u2v3w) (30.1 MB)                                                                   |
+| **Analytics Dashboard** | [Watch Video](https://drive.google.com/file/d/19CdhnQ0qEMe3Zx4aEhUIYVfcYo4qvWbd/view?usp=drive_link) (23.1 MB)                                                                   |
+| **Landing Page (GIF)**  | [Watch GIF](https://drive.google.com/file/d/10y_X_Gu0lWaqI7pawDC0U7msNOxOg3kQ/view?usp=drive_link) (37.6 MB)                                                                     |
+| **Login Page**          | [Watch Video](https://drive.google.com/file/d/1-HERSoTr_AsOlGeRIXjTnvUYeNq-CxPl/view?usp=drive_link) (25.3 MB)                                                                   |
+| **Manage Internships**  | [Watch Video](https://drive.google.com/file/d/1IEvJm0I5J7PH1UZBtxO6mmIfhOK4jj7E/view?usp=drive_link) (15.5 MB)                                                                 |
+| **Managing Applications** | [Watch Video](https://drive.google.com/file/d/182GXCVjQKTlgAfdti-DYqOVArGIbAarj/view?usp=drive_link) (15 MB)                                                                     |
+| **Post Internship**     | [Watch Video](https://drive.google.com/file/d/13QKCsKsPRpfuS7mUxL3Gvv7L2lYsielK/view?usp=drive_link) (15.2 MB)                                                                 |
+| **Register Page**       | [Watch Video](https://drive.google.com/file/d/1mujwPBrJKzP0zcczhnS2tKKcPhdXVzfu/view?usp=drive_link) (30.1 MB)                                                                   |
 
 ## 🛠️ Tech Stack
 
